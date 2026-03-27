@@ -1,6 +1,5 @@
 function findMax(arr) {
-  
-    
+
     if (arr.length === 1) {
         return arr[0];
     }
